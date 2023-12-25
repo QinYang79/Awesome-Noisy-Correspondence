@@ -84,7 +84,14 @@ Summary of related works on noisy correspondence (updating)
 - `[2023 AAAI]` **Robust domain adaptation for machine reading comprehension**  
 *Jiang, Liang and Huang, Zhenyu and Liu, Jia and Wen, Zujie and Peng, Xi*  
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
- 
- 
+
+
+## Multi-View Clustering 
+
+- `[2022 TPAMI]` **Robust Multi-View Clustering With Incomplete Information**  
+*Yang, Mouxing and Li, Yunfan and Hu, Peng and Bai, Jinfeng and Lv, Jian Cheng and Peng, Xi*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
+[[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
+
 
  
