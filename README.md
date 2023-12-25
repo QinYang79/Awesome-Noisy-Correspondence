@@ -44,7 +44,18 @@ Summary of related works on noisy correspondence
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
+ 
+## Video-Text Retrieval
 
+#### 2023
 
+- `[2023 TMM]` **Learning From Noisy Correspondence With Tri-Partition for Cross-Modal Matching**  
+*Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10258402)
+ 
+
+- `[2023 TMM]` **Robust Video-Text Retrieval Via Noisy Pair Calibration**  
+*Zhang, Huaiwen and Yang, Yang and Qi, Fan and Qian, Shengsheng and Xu, Changsheng*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10024790) 
 
  
