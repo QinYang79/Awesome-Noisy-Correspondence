@@ -75,8 +75,8 @@ Summary of related works on noisy correspondence (updating)
 ## Graph Matching 
 
 - `[2023 ICCV]` **Graph Matching with Noisy Correspondence**  
-*Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
-[[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
+*Lin, Yijie and Yang, Mouxing and Yu, Jun and Hu, Peng and Zhang, Changqing and Peng, Xi*  
+[[paper]](https://arxiv.org/pdf/2212.04085.pdf)
 [[code]](https://github.com/Lin-Yijie/Graph-Matching-Networks)
 
  ## Machine Reading Comprehension
