@@ -58,4 +58,19 @@ Summary of related works on noisy correspondence (updating)
 *Zhang, Huaiwen and Yang, Yang and Qi, Fan and Qian, Shengsheng and Xu, Changsheng*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10024790) 
 
+## Graph Matching 
+
+- `[2023 ICCV]` **Graph Matching with Noisy Correspondence**  
+*Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
+[[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
+[[code]](https://github.com/Lin-Yijie/Graph-Matching-Networks)
+
+ ## Machine Reading Comprehension
+
+- `[2023 AAA]` **Robust domain adaptation for machine reading comprehension**  
+*Jiang, Liang and Huang, Zhenyu and Liu, Jia and Wen, Zujie and Peng, Xi*  
+[[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
+ 
+ 
+
  
