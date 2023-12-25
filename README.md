@@ -81,7 +81,7 @@
 
 - `[2023 AAAI]` **Robust domain adaptation for machine reading comprehension**  
 *Jiang, Liang and Huang, Zhenyu and Liu, Jia and Wen, Zujie and Peng, Xi*  
-[[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25974)
 
 
 ## Multi-View Clustering 
