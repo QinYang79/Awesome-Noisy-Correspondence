@@ -1,6 +1,4 @@
-# Noisy-Correspondence Summary
-
-Summary of related works on noisy correspondence (updating)
+# Noisy-Correspondence Summary (Updating)
 
  
 ## Image-Text Matching
