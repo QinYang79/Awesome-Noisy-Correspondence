@@ -3,6 +3,15 @@
  
 ## Image-Text Matching
 
+
+#### 2023
+
+
+- `[2024 AAAI]` **Negative Pre-aware for Noisy Cross-modal Matching**  
+*Xu Zhang, Hao Li, Mang Ye*  
+[[paper]](https://arxiv.org/pdf/2312.05777.pdf)
+[[code]](https://github.com/ZhangXu0963/NPC)
+
 #### 2023
 
 - `[2023 NeurIPS]` **Cross-modal Active Complementary Learning with Self-refining Correspondence**  
