@@ -4,7 +4,7 @@
 ## Image-Text Matching
 
 
-#### 2023
+#### 2024
 
 
 - `[2024 AAAI]` **Negative Pre-aware for Noisy Cross-modal Matching**  
