@@ -54,7 +54,7 @@
 ## Reidentification
 
 - `[2024 IJCV]` **Robust Object Re-identification with Coupled Noisy Labels**  
-*Qin, Yang and Chen, Yingke and Peng, Dezhong and Peng, Xi and Zhou, Joey Tianyi and Hu, Peng*  
+*Mouxing Yang, Zhenyu Huang, Xi Peng*  
 [[paper]](https://pengxi.me/wp-content/uploads/2024/01/Manuscript.pdf)
 [[code]](https://github.com/XLearning-SCU/2024-IJCV-LCNL)
 
