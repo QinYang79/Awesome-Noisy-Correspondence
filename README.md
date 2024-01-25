@@ -46,7 +46,7 @@
  
 #### 2021
 
-- `[2021 NeurIPS]` **Learning with Noisy Correspondence for Cross-modal Matching**  
+- `[2021 NeurIPS Oral]` **Learning with Noisy Correspondence for Cross-modal Matching**  
 *Huang, Zhenyu and Niu, Guocheng and Liu, Xiao and Ding, Wenbiao and Xiao, Xinyan and Wu, Hua and Peng, Xi*  
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
@@ -74,10 +74,15 @@
  
 ## Video-Text Retrieval
 
+- `[2024 ICLR Oral]` **Multi-granularity Correspondence Learning from Long-term Noisy Videos**  
+*Yijie Lin, Jie Zhang, Zhenyu Huang, Jia Liu, Zujie Wen, Xi Peng*  
+[[paper]](https://lin-yijie.github.io/projects/Norton/)
+[[code]](https://github.com/XLearning-SCU/2024-ICLR-Norton)
+
 - `[2023 TMM]` **Learning From Noisy Correspondence With Tri-Partition for Cross-Modal Matching**  
 *Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10258402)
- 
+
 
 - `[2023 TMM]` **Robust Video-Text Retrieval Via Noisy Pair Calibration**  
 *Zhang, Huaiwen and Yang, Yang and Qi, Fan and Qian, Shengsheng and Xu, Changsheng*  
