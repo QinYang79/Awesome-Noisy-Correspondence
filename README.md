@@ -26,7 +26,7 @@
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10258402)
  
 - `[2023 TPAMI]` **Cross-Modal Retrieval with Partially Mismatched Pairs**  
-*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#*  
+*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng*  
 [[paper]](https://ieeexplore.ieee.org/document/10050111/)
 [[code]](https://github.com/penghu-cs/RCL)
 
@@ -104,7 +104,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://arxiv.org/pdf/2312.14055.pdf)
 
 - `[2023 TPAMI]` **Cross-Modal Retrieval with Partially Mismatched Pairs**  
-*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#*  
+*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng*  
 [[paper]](https://ieeexplore.ieee.org/document/10050111/)
 [[code]](https://github.com/penghu-cs/RCL)
 
