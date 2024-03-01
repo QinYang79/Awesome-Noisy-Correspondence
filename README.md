@@ -49,7 +49,7 @@
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547922)
 [[code]](https://github.com/QinYang79/DECL)
 
-- `[2022 CVPR]` **Robust Cross-Modal Representation Learning with Progressive Self-Distillation** 
+- `[2022 CVPR]` **Robust Cross-Modal Representation Learning with Progressive Self-Distillation**
 *Andonian, Alex and Chen, Shixing and Hamid, Raffay*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Andonian_Robust_Cross-Modal_Representation_Learning_With_Progressive_Self-Distillation_CVPR_2022_paper.pdf)
 
