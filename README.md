@@ -66,7 +66,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/salesforce/ALBEF)
 
 - `[2021 NeurIPS Oral]` **Learning with Noisy Correspondence for Cross-modal Matching**  
-*Huang, Zhenyu and Niu, Guocheng and Liu, Xiao and Ding, Wenbiao and Xiao, Xinyan and Wu, Hua and Peng, Xi*  
+  *Zhenyu Huang, Guocheng Niu, Xiao Liu, Wenbiao Ding, Xinyan Xiao, Hua Wu, Xi Peng*  
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
