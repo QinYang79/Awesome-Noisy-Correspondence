@@ -25,6 +25,11 @@
 *Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10258402)
  
+- `[2023 TPAMI]` **Cross-Modal Retrieval with Partially Mismatched Pairs**  
+*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#*  
+[[paper]](https://ieeexplore.ieee.org/document/10050111/)
+[[code]](https://github.com/penghu-cs/RCL)
+
 
 - `[2023 CVPR]` **BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency**  
 *Shuo Yang, Zhapan XU, Kai Wang, Yang You, Hongxun Yao, Tongliang Liu, Min Xu*  
@@ -97,6 +102,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 - `[2024 Arxiv]` **A Strong Baseline for Temporal Video-Text Alignment**  
 *Li, Zeqian and Chen, Qirui and Han, Tengda and Zhang, Ya and Wang, Yanfeng and Xie, Weidi*  
 [[paper]](https://arxiv.org/pdf/2312.14055.pdf)
+
+- `[2023 TPAMI]` **Cross-Modal Retrieval with Partially Mismatched Pairs**  
+*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#*  
+[[paper]](https://ieeexplore.ieee.org/document/10050111/)
+[[code]](https://github.com/penghu-cs/RCL)
 
 - `[2023 TMM]` **Learning From Noisy Correspondence With Tri-Partition for Cross-Modal Matching**  
 *Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
