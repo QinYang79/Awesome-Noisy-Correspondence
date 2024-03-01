@@ -61,7 +61,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 #### 2021
 
 - `[2021 NeurIPS Spotlight]` **Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**  
-*Li, Junnan and Selvaraju, Ramprasaath and Gotmare, Akhilesh and Joty, Shafiq and Xiong, Caiming and Hoi, Steven Chu Hong*  
+*Junnan Li, Ramprasaath Selvaraju, Akhilesh Gotmare, Shafiq Joty, Caiming Xiong, Steven Chu Hong Hoi*  
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)
 [[code]](https://github.com/salesforce/ALBEF)
 
