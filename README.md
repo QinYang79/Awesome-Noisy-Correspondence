@@ -130,7 +130,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 ## Image Contrastive Learning
 
 - `[2022 CVPR]` **Robust contrastive learning against noisy views**  
-*Chuang, Ching-Yao and Hjelm, R Devon and Wang, Xin and Vineet, Vibhav and Joshi, Neel and Torralba, Antonio and Jegelka, Stefanie and Song, Yale*  
+*Ching-Yao Chuang, R Devon Hjelm, Xin Wang, Vibhav Vineet, Neel Joshi, Antonio Torralba, Stefanie Jegelka, Yale Song*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chuang_Robust_Contrastive_Learning_Against_Noisy_Views_CVPR_2022_paper.pdf)
 [[code]](https://github.com/chingyaoc/RINCE)
 
