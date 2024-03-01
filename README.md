@@ -155,6 +155,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
 [[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
 
+- `[2020 NeurIPS Oral]` **Partially View-aligned Clustering**  
+*Zhenyu Huang, Peng Hu, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng*  
+[[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
+[[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
+
 
 # False Negative
 
