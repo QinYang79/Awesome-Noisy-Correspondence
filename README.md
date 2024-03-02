@@ -4,40 +4,20 @@ A new research **direction** of label noise learning. Noisy correspondence learn
 We mark work contributed by **us ([1](https://pengxi.me/), [2](https://penghu-cs.github.io/))** with ⭐.
 
 *This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
-## [Content](#content)
+## Content
 
-<table>
-<tr><td colspan="2">Tasks</td></tr> 
-<tr>
-<td>&emsp;<a href=#>Image-Text Matching/Retrieval</a></td>
-<td>&emsp;<a href=#>Vision-Language Pre-training</a></td>
-</tr>
-<tr>
-<td>&emsp;<a href=#>Re-identification</a></td>
-<td>&emsp;<a href=#>Video-Text Learning</a></td>
-</tr>
-<tr>
-<td>&emsp;<a href=#>Image Captioning</a></td>
-<td>&emsp;<a href=#>Image Contrastive Learning</a></td>
-</tr>
-<tr>
-<td>&emsp;<a href=#>Graph Matching</a></td>
-<td>&emsp;<a href=#>Visual-Audio Learning</a></td>
-</tr>
-<tr>
-<td>&emsp;<a href=#>Machine Reading Comprehension</a></td>
-<td>&emsp;<a href=#>Dense Retrieval</a></td>
-</tr>
-<tr>
-<td>&emsp;<a href=#>Multi-View Clustering</a></td>
-<td>&emsp;<a href=#></a></td>
-</tr>
-</table>
-
+|||
+|-|-|
+|  [Image-Text Matching/Retrieval](#image-text-matchingretrieval)   |  [Vision-Language Pre-training](#vision-language-pre-training) |
+|  [Re-identification](#re-identification)                          |  [Video-Text Learning](#video-text-learning)                   |
+|  [Image Captioning](#image-captioning)                            |  [Image Contrastive Learning](#image-contrastive-learning)     |
+|  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
+|  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
+|  [Multi-View Clustering](#multi-view-clustering)                  |                                                                |
+|||
  
-
+ 
 ## Image-Text Matching/Retrieval
-
 
 #### 2024
 
@@ -99,7 +79,7 @@ We mark work contributed by **us ([1](https://pengxi.me/), [2](https://penghu-cs
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
-## Vision-Language Pre-training
+##  Vision-Language Pre-training
 - `[2023 AAAI]` **NLIP: Noise-Robust Language-Image Pre-training** 
 *Runhui Huang, Yanxin Long, Jianhua Han, Hang Xu, Xiwen Liang, Chunjing Xu, Xiaodan Liang*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25172)
