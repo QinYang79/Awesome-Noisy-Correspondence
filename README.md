@@ -1,10 +1,40 @@
 # Noisy-Correspondence Learning Summary (Updating)
 A new research **direction** of label noise learning. Noisy correspondence learning aims to eliminate the negative impact of the mismatched pairs (e.g., false positives/negatives) instead of annotation errors in several tasks.
 
-We mark work contributed by **us ([1](https://pengxi.me/researches/), [2](https://penghu-cs.github.io/))** with ⭐.
+We mark work contributed by **us ([1](https://pengxi.me/), [2](https://penghu-cs.github.io/))** with ⭐.
 
 *This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
+## [Content](#content)
 
+<table>
+<tr><td colspan="2">Tasks</td></tr> 
+<tr>
+<td>&emsp;<a href=#>Image-Text Matching/Retrieval</a></td>
+<td>&emsp;<a href=#>Vision-Language Pre-training</a></td>
+</tr>
+<tr>
+<td>&emsp;<a href=#>Re-identification</a></td>
+<td>&emsp;<a href=#>Video-Text Learning</a></td>
+</tr>
+<tr>
+<td>&emsp;<a href=#>Image Captioning</a></td>
+<td>&emsp;<a href=#>Image Contrastive Learning</a></td>
+</tr>
+<tr>
+<td>&emsp;<a href=#>Graph Matching</a></td>
+<td>&emsp;<a href=#>Visual-Audio Learning</a></td>
+</tr>
+<tr>
+<td>&emsp;<a href=#>Machine Reading Comprehension</a></td>
+<td>&emsp;<a href=#>Dense Retrieval</a></td>
+</tr>
+<tr>
+<td>&emsp;<a href=#>Multi-View Clustering</a></td>
+<td>&emsp;<a href=#></a></td>
+</tr>
+</table>
+
+ 
 
 ## Image-Text Matching/Retrieval
 
