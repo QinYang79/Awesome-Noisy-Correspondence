@@ -4,7 +4,7 @@ A new research **direction** of label noise learning. Noisy correspondence learn
 We mark work contributed by **us ([1](https://pengxi.me/), [2](https://penghu-cs.github.io/))** with ⭐.
 
 *This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
-## Content
+## Tasks
 
 |||
 |-|-|
