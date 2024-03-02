@@ -40,7 +40,6 @@ A new research **direction** of label noise learning. Noisy corresponde learning
 *Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10258402)
 
-
 - `[2023 CVPR]` **BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency**  
 *Shuo Yang, Zhapan XU, Kai Wang, Yang You, Hongxun Yao, Tongliang Liu, Min Xu*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_BiCro_Noisy_Correspondence_Rectification_for_Multi-Modality_Data_via_Bi-Directional_Cross-Modal_CVPR_2023_paper.html)
@@ -80,7 +79,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/salesforce/BLIP)
 
 - `[2021 NeurIPS Spotlight]` **Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**  
-*Li, Junnan and Selvaraju, Ramprasaath and Gotmare, Akhilesh and Joty, Shafiq and Xiong, Caiming and Hoi, Steven Chu Hong*  
+*Junnan Li, Ramprasaath Selvaraju, Akhilesh Gotmare, Shafiq Joty, Caiming Xiong, Steven Chu Hong Hoi*  
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)
 [[code]](https://github.com/salesforce/ALBEF)
 
@@ -149,7 +148,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 ## Image Contrastive Learning
 
 - `[2022 CVPR]` **Robust contrastive learning against noisy views**  
-*Chuang, Ching-Yao and Hjelm, R Devon and Wang, Xin and Vineet, Vibhav and Joshi, Neel and Torralba, Antonio and Jegelka, Stefanie and Song, Yale*  
+*Ching-Yao Chuang, R Devon Hjelm, Xin Wang, Vibhav Vineet, Neel Joshi, Antonio Torralba, Stefanie Jegelka, Yale Song*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chuang_Robust_Contrastive_Learning_Against_Noisy_Views_CVPR_2022_paper.pdf)
 [[code]](https://github.com/chingyaoc/RINCE)
 
@@ -183,7 +182,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://arxiv.org/pdf/2311.03798.pdf)
 
 
-## Contrastive Multi-View Clustering 
+## Multi-View Clustering 
 
 - `[2024 AAAI]` **Decoupled Contrastive Multi-view Clustering with High-order Random Walks**  
 *Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, Peng Hu, Xi Peng*  
@@ -200,4 +199,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
 
- 
+- `[2020 NeurIPS Oral]` **Partially View-aligned Clustering**  
+*Zhenyu Huang, Peng Hu, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng*  
+[[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
+[[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
