@@ -1,12 +1,19 @@
-# Noisy-Correspondence Summary (Updating)
+# Noisy-Correspondence Learning Summary (Updating)
+A new research **direction** of label noise learning. Noisy corresponde learning aims to elimate the negative impact of the mismatched pairs (e.g., false postives/negatives) instead of annotation errors in a number of tasks.
 
-# False Positive
- 
-## Image-Text Matching
+## Image-Text Matching/Retrieval
 
 
 #### 2024
 
+- `[2024 TIP]` **Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining**  
+*Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
+[[paper]](http://pengxi.me/wp-content/uploads/2024/03/Cross-modal-Retrieval-with-Noisy-Correspondence-via-Consistency-Refining-and-Mining.pdf)
+[[code]](https://github.com/XLearning-SCU/2024-TIP-CREAM)
+
+- `[2024 AAAI]` **Noisy Correspondence Learning with Self-Reinforcing Errors Mitigation**  
+*Zhuohang Dang, Minnan Luo, Chengyou Jia, Guang Dai, Xiaojun Chang, Jingdong Wang*  
+[[paper]](https://arxiv.org/pdf/2312.16478.pdf)
 
 - `[2024 AAAI]` **Negative Pre-aware for Noisy Cross-modal Matching**  
 *Xu Zhang, Hao Li, Mang Ye*  
@@ -20,11 +27,19 @@
 [[paper]](https://openreview.net/pdf?id=UBBeUjTja8)
 [[code]](https://github.com/QinYang79/CRCL)
 
+- `[2023 TPAMI]` **Cross-Modal Retrieval with Partially Mismatched Pairs**  
+*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang, Xi Peng*  
+[[paper]](http://pengxi.me/wp-content/uploads/2023/03/Cross-Modal_Retrieval_with_Partially_Mismatched_Pairs.pdf)
+[[code]](https://github.com/penghu-cs/RCL)
+
+- `[2023 TMM]` **Integrating Language Guidance Into Image-Text Matching for Correcting False Negatives**  
+*Zheng Li, Caili Guo, IEEE, Zerun Feng, Jenq-Neng Hwang, Zhongtian Du*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10081045)
 
 - `[2023 TMM]` **Learning From Noisy Correspondence With Tri-Partition for Cross-Modal Matching**  
 *Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10258402)
- 
+
 
 - `[2023 CVPR]` **BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency**  
 *Shuo Yang, Zhapan XU, Kai Wang, Yang You, Hongxun Yao, Tongliang Liu, Min Xu*  
@@ -44,6 +59,17 @@
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547922)
 [[code]](https://github.com/QinYang79/DECL)
 
+#### 2021
+- `[2021 NeurIPS Oral]` **Learning with Noisy Correspondence for Cross-modal Matching**  
+*Huang, Zhenyu and Niu, Guocheng and Liu, Xiao and Ding, Wenbiao and Xiao, Xinyan and Wu, Hua and Peng, Xi*  
+[[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
+[[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
+
+## Vision-Language Pre-training
+- `[2023 AAAI]` **NLIP: Noise-Robust Language-Image Pre-training** 
+*Runhui Huang, Yanxin Long, Jianhua Han, Hang Xu, Xiwen Liang, Chunjing Xu, Xiaodan Liang*  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25172)
+
 - `[2022 CVPR]` **Robust Cross-Modal Representation Learning with Progressive Self-Distillation** 
 *Andonian, Alex and Chen, Shixing and Hamid, Raffay*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Andonian_Robust_Cross-Modal_Representation_Learning_With_Progressive_Self-Distillation_CVPR_2022_paper.pdf)
@@ -53,17 +79,10 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://proceedings.mlr.press/v162/li22n/li22n.pdf)
 [[code]](https://github.com/salesforce/BLIP)
 
-#### 2021
-
 - `[2021 NeurIPS Spotlight]` **Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**  
 *Li, Junnan and Selvaraju, Ramprasaath and Gotmare, Akhilesh and Joty, Shafiq and Xiong, Caiming and Hoi, Steven Chu Hong*  
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)
 [[code]](https://github.com/salesforce/ALBEF)
-
-- `[2021 NeurIPS Oral]` **Learning with Noisy Correspondence for Cross-modal Matching**  
-*Huang, Zhenyu and Niu, Guocheng and Liu, Xiao and Ding, Wenbiao and Xiao, Xinyan and Wu, Hua and Peng, Xi*  
-[[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
-[[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 ## Re-identification
 
@@ -79,13 +98,18 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/XLearning-SCU/2024-IJCV-LCNL)
 
 
+- `[2024 EAAI]` **Modality Blur and Batch Alignment Learning for Twin Noisy Labels-based Visible–infrared Person Re-identification**  
+*Song Wu, Shihao Shan, Guoqiang Xiao, Michael S. Lew, Xinbo Gao*  
+[[paper]](https://www.sciencedirect.com/science/article/pii/S0952197624001489)
+[[code]]( https://github.com/SWU-CS-MediaLab/MBBA)
+
 - `[2022 CVPR]` **Learning With Twin Noisy Labels for Visible-Infrared Person Re-Identification**  
-*Yang, Mouxing and Huang, Zhenyu and Hu, Peng and Li, Taihao and Lv, Jiancheng and Peng, Xi*  
+*Mouxing Yang, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2022-CVPR-DART)
 
 
- 
+
 ## Video-Text Learning
 
 
@@ -98,13 +122,13 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Li, Zeqian and Chen, Qirui and Han, Tengda and Zhang, Ya and Wang, Yanfeng and Xie, Weidi*  
 [[paper]](https://arxiv.org/pdf/2312.14055.pdf)
 
-- `[2023 TMM]` **Learning From Noisy Correspondence With Tri-Partition for Cross-Modal Matching**  
-*Feng, Zerun and Zeng, Zhimin and Guo, Caili and Li, Zheng and Hu, Lin*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10258402)
-
 - `[2023 TMM]` **Robust Video-Text Retrieval Via Noisy Pair Calibration**  
 *Zhang, Huaiwen and Yang, Yang and Qi, Fan and Qian, Shengsheng and Xu, Changsheng*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10024790) 
+
+- `[2021 ICCV]` **Crossclr: Cross-modal Contrastive Learning for Multi-modal Video Representations**  
+  *Zolfaghari, Mohammadreza and Zhu, Yi and Gehler, Peter and Brox, Thomas*  
+  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zolfaghari_CrossCLR_Cross-Modal_Contrastive_Learning_for_Multi-Modal_Video_Representations_ICCV_2021_paper.pdf)
 
 - `[2022 CVPR Oral]` **Temporal Alignment Networks for Long-term Video**  
 *Han, Tengda and Xie, Weidi and Zisserman, Andrew*  
@@ -116,6 +140,11 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://arxiv.org/pdf/2109.14084.pdf)
 [[code]](https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT)
 
+## Image Captioning
+- `[2022 CVPR]` **Noise-aware Learning from Web-crawled Image-Text Data for Image Captioning**  
+*Wooyoung Kang, Jonghwan Mun, Sungjun Lee, Byungseok Roh*  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_Noise-Aware_Learning_from_Web-Crawled_Image-Text_Data_for_Image_Captioning_ICCV_2023_paper.pdf)
+[[code]](https://github.com/kakaobrain/noc)
 
 ## Image Contrastive Learning
 
@@ -126,39 +155,48 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Graph Matching 
 
+- `[2024 TIP]` **Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining**  
+*Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
+[[paper]](http://pengxi.me/wp-content/uploads/2024/03/Cross-modal-Retrieval-with-Noisy-Correspondence-via-Consistency-Refining-and-Mining.pdf)
+[[code]](https://github.com/XLearning-SCU/2024-TIP-CREAM)
 - `[2023 ICCV]` **Graph Matching with Noisy Correspondence**  
 *Lin, Yijie and Yang, Mouxing and Yu, Jun and Hu, Peng and Zhang, Changqing and Peng, Xi*  
 [[paper]](https://arxiv.org/pdf/2212.04085.pdf)
 [[code]](https://github.com/Lin-Yijie/Graph-Matching-Networks)
 
- ## Machine Reading Comprehension
+## Visual-Audio Learning
+- `[2022 arXiv]` **Noise-Tolerant Learning for Audio-Visual Action Recognition**  
+*Haochen Han, Qinghua Zheng, Minnan Luo, Kaiyao Miao, Feng Tian, Yan Chen*  
+[[paper]](https://arxiv.org/abs/2205.07611)
+
+## Machine Reading Comprehension
 
 - `[2023 AAAI]` **Robust domain adaptation for machine reading comprehension**  
 *Jiang, Liang and Huang, Zhenyu and Liu, Jia and Wen, Zujie and Peng, Xi*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25974)
 
 
-## Multi-View Clustering 
+## Dense Retrieval
+
+- `[2023 EMNLP Findings]` **Noisy Pair Corrector for Dense Retrieval**  
+*Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
+[[paper]](https://arxiv.org/pdf/2311.03798.pdf)
+
+
+## Contrastive Multi-View Clustering 
+
+- `[2024 AAAI]` **Decoupled Contrastive Multi-view Clustering with High-order Random Walks**  
+*Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, Peng Hu, Xi Peng*  
+[[paper]](http://pengxi.me/wp-content/uploads/2024/02/Decoupled_Contrastive_Multi_View_Clustering_with_High_Order_Random_Walks.pdf)
+[[code]](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)
 
 - `[2022 TPAMI]` **Robust Multi-View Clustering With Incomplete Information**  
-*Yang, Mouxing and Li, Yunfan and Hu, Peng and Bai, Jinfeng and Lv, Jian Cheng and Peng, Xi*  
+*Mouxing Yang, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
 [[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
 
-
-# False Negative
-
-- `[2024 ICLR Oral]` **Multi-granularity Correspondence Learning from Long-term Noisy Videos**  
-*Yijie Lin, Jie Zhang, Zhenyu Huang, Jia Liu, Zujie Wen, Xi Peng*  
-[[paper]](https://lin-yijie.github.io/projects/Norton/)
-[[code]](https://github.com/XLearning-SCU/2024-ICLR-Norton)
-
-- `[2021 ICCV]` **Crossclr: Cross-modal Contrastive Learning for Multi-modal Video Representations**  
-  *Zolfaghari, Mohammadreza and Zhu, Yi and Gehler, Peter and Brox, Thomas*  
-[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zolfaghari_CrossCLR_Cross-Modal_Contrastive_Learning_for_Multi-Modal_Video_Representations_ICCV_2021_paper.pdf)
-
 - `[2021 CVPR]` **Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**   
-*Yang, Mouxing and Li, Yunfan and Huang, Zhenyu and Liu, Zitao and Hu, Peng and Peng, Xi*  
+*Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf)
 [[code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
 
