@@ -1,5 +1,7 @@
 # Noisy-Correspondence Learning Summary (Updating)
-A new research **direction** of label noise learning. Noisy corresponde learning aims to elimate the negative impact of the mismatched pairs (e.g., false postives/negatives) instead of annotation errors in a number of tasks.
+A new research **direction** of label noise learning. Noisy correspondence learning aims to eliminate the negative impact of the mismatched pairs (e.g., false positives/negatives) instead of annotation errors in several tasks.
+
+
 
 ## Image-Text Matching/Retrieval
 
