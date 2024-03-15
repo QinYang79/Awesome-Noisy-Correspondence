@@ -21,15 +21,15 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
-- `[2024 CVPR]' **Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**  
+- `[2024 CVPR]` **Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**  
 *Haochen Han, Qinghua Zheng, Guang Dai, Minnan Luo, Jingdong Wang*  
  [[paper]](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
 
-- `[2024 CVPR]' **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
+- `[2024 CVPR]` **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
 *Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang*
  [[paper]](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
 
-- `[2024 CVPR]' **Robust Noisy Correspondence Learning with Equivariant Similarity Consistency**  
+- `[2024 CVPR]` **Robust Noisy Correspondence Learning with Equivariant Similarity Consistency**  
 *Yuchen Yang, Erkun Yang, Likai Wang, Cheng Deng*  
  [[paper]](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
 
