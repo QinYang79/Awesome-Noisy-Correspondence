@@ -20,7 +20,7 @@ We mark works contributed by ourselves with ⭐.
 ## Image-Text Matching/Retrieval
 
 #### 2024
-- `[2024 CVPR]` **REPAIR: Rank Correlation and Noisy Pair Half-replacing with Memory for Noisy Correspondence**  
+- `[2024 Under review]` **REPAIR: Rank Correlation and Noisy Pair Half-replacing with Memory for Noisy Correspondence**  
 *Ruochen Zheng, Jiahao Hong, Changxin Gao, Nong Sang*  
 [[paper]](https://arxiv.org/abs/2403.08224) 
 
