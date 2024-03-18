@@ -20,9 +20,6 @@ We mark works contributed by ourselves with ⭐.
 ## Image-Text Matching/Retrieval
 
 #### 2024
-- `[2024 Under review]` **REPAIR: Rank Correlation and Noisy Pair Half-replacing with Memory for Noisy Correspondence**  
-*Ruochen Zheng, Jiahao Hong, Changxin Gao, Nong Sang*  
-[[paper]](https://arxiv.org/abs/2403.08224) 
 
 - `[2024 CVPR]` **Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**  
 *Haochen Han, Qinghua Zheng, Guang Dai, Minnan Luo, Jingdong Wang*  
@@ -37,6 +34,9 @@ We mark works contributed by ourselves with ⭐.
 *Yuchen Yang, Erkun Yang, Likai Wang, Cheng Deng*  
  [[paper]](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
 
+- `[2024 Under review]` **REPAIR: Rank Correlation and Noisy Pair Half-replacing with Memory for Noisy Correspondence**  
+*Ruochen Zheng, Jiahao Hong, Changxin Gao, Nong Sang*  
+[[paper]](https://arxiv.org/abs/2403.08224) 
 
 - `[2024 TIP]` **⭐Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining**  
 *Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
