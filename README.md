@@ -22,7 +22,7 @@ We mark works contributed by ourselves with ⭐.
 #### 2024
 
 - `[2024 ICASSP]` **NAC: Mitigating Noisy Correspondence in Cross-Modal Matching Via Neighbor Auxiliary Corrector**
-*Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang*
+*Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang* 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10448059) 
 
 - `[2024 CVPR]` **Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**  
@@ -31,7 +31,7 @@ We mark works contributed by ourselves with ⭐.
 [[code]](https://github.com/hhc1997/L2RM)
 
 - `[2024 CVPR]` **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
-*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang*
+*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang* 
 [[paper]](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
 
 - `[2024 CVPR]` **Robust Noisy Correspondence Learning with Equivariant Similarity Consistency**  
