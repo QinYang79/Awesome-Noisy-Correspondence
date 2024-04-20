@@ -21,6 +21,11 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
+- `[2024 IJCV]` **⭐Learning with Noisy Correspondence**
+*Zhenyu Huang, Peng Hu, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng* 
+[[paper]](https://link.springer.com/article/10.1007/s13735-024-00327-7) 
+
+
 - `[2024 ICASSP]` **NAC: Mitigating Noisy Correspondence in Cross-Modal Matching Via Neighbor Auxiliary Corrector**
 *Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang* 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10448059) 
