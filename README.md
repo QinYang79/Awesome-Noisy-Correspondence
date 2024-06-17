@@ -22,19 +22,25 @@ We mark works contributed by ourselves with ⭐.
 #### 2024
 
 - `[2024 IJCV]` **⭐Learning with Noisy Correspondence**  
-*Zhenyu Huang, Peng Hu, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng* 
+*Zhenyu Huang, Peng Hu, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng*   
 [[paper]](https://link.springer.com/article/10.1007/s11263-024-02064-0)
 
 - `[2024 TOIS]` **Breaking Through the Noisy Correspondence: A Robust Model for Image-Text Matching**   
-*Haitao Shi, Meng Liu, Xiaoxuan Mu, Xuemeng Song, Yupeng Hu, Liqiang Nie*
+*Haitao Shi, Meng Liu, Xiaoxuan Mu, Xuemeng Song, Yupeng Hu, Liqiang Nie*  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3662732) 
 
 - `[2024 ICASSP]` **NAC: Mitigating Noisy Correspondence in Cross-Modal Matching Via Neighbor Auxiliary Corrector**  
-*Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang* 
+*Yuqing Li, Haoming Huang, Jian Xu, Shao-Lun Huang*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10448059) 
 
+
+- `[2024 CVPR]` **Robust Noisy Correspondence Learning with Equivariant Similarity Consistency**  
+*Yuchen Yang, Likai Wang, Erkun Yang, Cheng Deng*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Robust_Noisy_Correspondence_Learning_with_Equivariant_Similarity_Consistency_CVPR_2024_paper.pdf)
+
+
 - `[2024 CVPR]` **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
-*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo han, Ya Zhang, Yanfeng Wang*  
+*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo han, Ya Zhang, Yanfeng Wang*    
 [[paper]](https://arxiv.org/abs/2405.16996)
 [[code]](https://github.com/MediaBrain-SJTU/GSC)
 
@@ -44,7 +50,7 @@ We mark works contributed by ourselves with ⭐.
 [[code]](https://github.com/hhc1997/L2RM)
 
 - `[2024 CVPR]` **Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**  
-*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang* 
+*Zihua Zhao, Mengxi Chen, Tianjie Dai, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang*   
 [[paper]](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
 
 - `[2024 CVPR]` **Robust Noisy Correspondence Learning with Equivariant Similarity Consistency**  
