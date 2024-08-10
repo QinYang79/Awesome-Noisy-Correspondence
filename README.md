@@ -21,6 +21,18 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
+- `[2024 SIGIR]` **PC: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**  
+*Yue Duan, Zhangxuan Gu, Zhenzhe Ying, Lei Qi, Changhua Meng, Yinghuan Shi*   
+[[paper]](https://arxiv.org/abs/2408.01349)
+[[code]](https://github.com/alipay/PC2-NoiseofWeb)
+
+
+- `[2024 SIGIR]` **UGNCL: Uncertainty-Guided Noisy Correspondence Learning for Efficient Cross-Modal Matching**  
+*Quanxing Zha, Xin Liu, Yiu-ming Cheung, Xing Xu, Nannan Wang, Jianjia Cao*   
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657806)
+[[code]](https://github.com/qxzha/UGNCL)
+
+
 - `[2024 IJCV]` **⭐Learning with Noisy Correspondence**  
 *Zhenyu Huang, Peng Hu, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng*   
 [[paper]](https://link.springer.com/article/10.1007/s11263-024-02064-0)
