@@ -233,7 +233,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Lin, Yijie and Yang, Mouxing and Yu, Jun and Hu, Peng and Zhang, Changqing and Peng, Xi*  
 [[paper]](https://arxiv.org/pdf/2212.04085.pdf)
 [[code]](https://github.com/Lin-Yijie/Graph-Matching-Networks)
-[![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch.svg?style=social&label=Star&maxAge=8640)](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
+[![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON)
 
 ## Visual-Audio Learning
 
