@@ -20,10 +20,6 @@ We mark works contributed by ourselves with ⭐.
 ## Image-Text Matching/Retrieval
 
 #### 2024
-- `[2024 TPAMI]` **⭐Noise-robust Vision-language Pre-training with Positive-negative Learning**   
-*Zhenyu Huang, Mouxing Yang, Xinyan Xiao, Peng Hu, Xi Peng*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10684058)
-[[code]](https://github.com/XLearning-SCU/2024-TPAMI-NEVER)
 
 - `[2024 ACMMM]` **$\text{PC}^2$: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**  
 *Yue Duan, Zhangxuan Gu, Zhenzhe Ying, Lei Qi, Changhua Meng, Yinghuan Shi*   
@@ -74,7 +70,7 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/abs/2403.08224) 
 
 - `[2024 TIP]` **⭐Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining**  
-*Xinran Ma, Mouxing Yang, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
+*Xinran Ma#, Mouxing Yang#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng*  
 [[paper]](http://pengxi.me/wp-content/uploads/2024/03/Cross-modal-Retrieval-with-Noisy-Correspondence-via-Consistency-Refining-and-Mining.pdf)
 [[code]](https://github.com/XLearning-SCU/2024-TIP-CREAM)
 
@@ -132,9 +128,9 @@ We mark works contributed by ourselves with ⭐.
 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 ##  Vision-Language Pre-training
-- `[2024 TPAMI]` **⭐Noise-robust Vision-language Pre-training with Positive-negative Learning**   
-*Zhenyu Huang, Mouxing Yang, Xinyan Xiao, Peng Hu, Xi Peng*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10684058)
+- `[2024 TPAMI]` **⭐Noise-robust Vision-language Pre-training with Positive-negative Learning**  
+Zhenyu Huang#, Mouxing Yang#, Xinyan Xiao, Peng Hu, Xi Peng*  
+[[paper]](https://ieeexplore.ieee.org/document/10684058)
 [[code]](https://github.com/XLearning-SCU/2024-TPAMI-NEVER)
 
 - `[2023 AAAI]` **NLIP: Noise-Robust Language-Image Pre-training**   
