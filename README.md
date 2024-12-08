@@ -3,7 +3,7 @@ A new research **direction** of label noise learning. Noisy correspondence learn
 
 We mark works contributed by ourselves with ⭐.
 
-*This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
+*This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), [Changhao He](https://he-changhao.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more AI-workers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
 ## Tasks
 
 |||
@@ -277,39 +277,6 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 
 ## Multi-View Clustering 
 
-#### 2020
-
-- `[2020 NeurIPS Oral]` **⭐Partially View-aligned Clustering**  
-*Zhenyu Huang, Peng Hu, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng*  
-[[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
-[[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
-
-#### 2021
-
-- `[2021 CVPR]` **⭐Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**   
-*Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng*  
-[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf)
-[[code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
-
-
-- `[2021 KDD]` **A novel multi-view clustering method for unknown mapping relationships between cross-view samples**  
-*Hong Yu, Jia Tang, Guoyin Wang, Xinbo Gao*  
-[[paper]](https://dl.acm.org/doi/10.1145/3447548.3467294)
-[[code]](https://github.com/yuhongcqupt/MVC-UM)
-
-#### 2022
-
-- `[2022 TPAMI]` **⭐Robust Multi-View Clustering With Incomplete Information**  
-*Mouxing Yang, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
-[[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
-
-#### 2023
-
-- `[2023 TNNLS]` **Selective contrastive learning for unpaired multi-view clustering**  
-*Yiming Wang, Dongxia Chang, Zhiqiang Fu, Jie Wen, Yao Zhao*  
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10327758)
-
 #### 2024
 
 - `[2024 ACMMM]` **⭐Robust Variational Contrastive Learning for Partially View-unaligned Clustering**  
@@ -374,4 +341,41 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 - `[2024 TNNLS]` **Iterative multiview subspace learning for unpaired multiview clustering**  
 *Wanqi Yang, Like Xin, Lei Wang, Ming Yang, Wenzhu Yan, Yang Gao*  
 [[paper]](https://ieeexplore.ieee.org/document/10149819)
+
+
+#### 2023
+
+- `[2023 TNNLS]` **Selective contrastive learning for unpaired multi-view clustering**  
+*Yiming Wang, Dongxia Chang, Zhiqiang Fu, Jie Wen, Yao Zhao*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10327758)
+
+
+#### 2022
+
+- `[2022 TPAMI]` **⭐Robust Multi-View Clustering With Incomplete Information**  
+*Mouxing Yang, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
+[[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
+
+
+#### 2021
+
+- `[2021 CVPR]` **⭐Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**   
+*Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf)
+[[code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
+
+
+- `[2021 KDD]` **A novel multi-view clustering method for unknown mapping relationships between cross-view samples**  
+*Hong Yu, Jia Tang, Guoyin Wang, Xinbo Gao*  
+[[paper]](https://dl.acm.org/doi/10.1145/3447548.3467294)
+[[code]](https://github.com/yuhongcqupt/MVC-UM)
+
+
+#### 2020
+
+- `[2020 NeurIPS Oral]` **⭐Partially View-aligned Clustering**  
+*Zhenyu Huang, Peng Hu, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng*  
+[[paper]](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf)
+[[code]](https://github.com/XLearning-SCU/2020-NIPS-PVC)
 
