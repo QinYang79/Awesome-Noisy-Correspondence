@@ -347,7 +347,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 #### 2023
 
 - `[2023 TNNLS]` **Selective contrastive learning for unpaired multi-view clustering**  
-*Yiming Wang, Dongxia Chang, Zhiqiang Fu, Jie Wen, Yao Zhao*  
+*Like Xin , Wanqi Yang, Lei Wang, Ming Yang*  
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10327758)
 
 
