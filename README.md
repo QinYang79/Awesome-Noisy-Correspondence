@@ -282,7 +282,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 ## Retrieval-augmented Generation
 
 - `[2024 Arxiv]` **MLLM is A Strong Reranker: Advancing Multimodal Retrieval-Augmented Generation Via Knowledge-enhanced Reranking and Noise-injected Training**  
-*Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo1*  
+*Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo*  
 [[paper]](https://arxiv.org/pdf/2407.21439)
 [[code]](https://github.com/IDEA-FinAI/RagVL)
 
