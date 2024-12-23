@@ -13,7 +13,7 @@ We mark works contributed by ourselves with ⭐.
 |  [Image Captioning](#image-captioning)                            |  [Image Contrastive Learning](#image-contrastive-learning)     |
 |  [Graph Matching ](#graph-matching)                               |  [Visual-Audio Learning](#visual-audio-learning)               |
 |  [Machine Reading Comprehension](#machine-reading-comprehension)  |  [Dense Retrieval](#dense-retrieval)                           |
-|  [Retrieval-augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
+|  [Retrieval-Augmented Generation](#retrieval-augmented-generation)|  [Multi-View Clustering](#multi-view-clustering)               |
 ||| 
  
  
@@ -278,7 +278,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
 [[paper]](https://arxiv.org/pdf/2311.03798.pdf)
 
-## Retrieval-augmented Generation
+## Retrieval-Augmented Generation
 
 - `[2024 Arxiv]` **MLLM is A Strong Reranker: Advancing Multimodal Retrieval-Augmented Generation Via Knowledge-enhanced Reranking and Noise-injected Training**  
 *Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo*  
