@@ -22,6 +22,11 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2025
 
+- `[2025 CVPR]` **ReCon: Enhancing True Correspondence Discrimination through Relation Consistency for Robust Noisy Correspondence Learning**  
+*Quanxing Zha, Xin Liu, Shu-Juan Peng, Yiu-ming Cheung, Xing Xu, Nannan Wang*  
+[[paper]](https://arxiv.org/pdf/2502.19962)
+[[code]](https://github.com/qxzha/ReCon)
+
 - `[2025 AAAI]` **TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval**  
 *Shuai Lyu, Zijing Tian, Zhonghong Ou, Yifan Zhu, Xiao Zhang, Qiankun Ha, Haoran Luo, Meina Song*    
 [[paper]](https://arxiv.org/pdf/2501.10935)
