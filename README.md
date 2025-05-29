@@ -1,3 +1,5 @@
+⚠️ This repository has been migratesd to [XLearning-SCU/Awesome-Noisy-Correspondence](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence), welcome to follow. This repository will also be updated synchronously!
+
 # Noisy-Correspondence Learning Summary (Updating)
 A new research **direction** of label noise learning. Noisy correspondence learning was first formally proposed in [NCR (NeurIPS 2021, Oral)](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf) by the [XLearning](https://github.com/XLearning-SCU) group, which aims to eliminate the negative impact of the mismatched pairs (e.g., false positives/negatives) instead of annotation errors in several tasks.
 
