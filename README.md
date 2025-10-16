@@ -530,7 +530,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[code]](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)
 
 
-- `[2024 ACM MM]` **Robust prototype completion for incomplete multi-view clustering**. 
+- `[2024 ACM MM]` **Robust prototype completion for incomplete multi-view clustering**  
 *Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, Yuan Sun, Zhenwen Ren*  
 [[paper]](https://openreview.net/pdf?id=4BrIZo3Ave)
 [[code]](https://github.com/hl-yuan/RPCIC)
