@@ -56,13 +56,13 @@ We mark works contributed by our group with ⭐.
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11410080)
 
 - `[2026 TIP]` **Exploring Hierarchical Cross-Modal Correlation Consistency for Partial Mismatching**  
-*Xiaoqing Liu, Zhiwen Yu, Jun Yu, Huanqiang Zeng, Zhuoyao Wang , C. L. Philip Chen*  
+*Xiaoqing Liu, Zhiwen Yu, Jun Yu, Huanqiang Zeng, Zhuoyao Wang, C. L. Philip Chen*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11410080)
 
 
 
 - `[2026 TMM]` **Privileged information assisted learning from noisy correspondence**  
-*Tao Yao , Yizhen Wu , Linliang Zhang, Guorui Sheng , Ying Li , Qi Tian*  
+*Tao Yao, Yizhen Wu, Linliang Zhang, Guorui Sheng, Ying Li, Qi Tian*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/11410080)
 
 
